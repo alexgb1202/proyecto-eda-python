@@ -82,7 +82,7 @@ Tras la limpieza, transformación y unión de los datasets, se obtuvo un dataset
 - Visual Studio Code
 
 ## 4. Estructura del proyecto
-
+```
 PROYECTO_EDA/                        # Entorno virtual
 │
 ├── Data/
@@ -107,7 +107,7 @@ PROYECTO_EDA/                        # Entorno virtual
 │
 ├── requirements.txt                # Dependencias del proyecto
 └── README.md                       # Documentación del proyecto
-
+```
 
 ## 5. Cómo ejecutar el proyecto
 
