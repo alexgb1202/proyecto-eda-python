@@ -2,9 +2,9 @@
 
 ## 1. Objetivo
 
-El objetivo de este proyecto es realizar un Análisis Exploratorio de Datos (EDA) utilizando Python, con el fin de comprender el comportamiento de los clientes de una entidad bancaria portuguesa y analizar qué variables influyen en la suscripción de un producto financiero (depósito a plazo fijo).
+El objetivo de este proyecto es realizar un Análisis Exploratorio de Datos (EDA) utilizando Python, con el fin de comprender el comportamiento de los clientes de una entidad bancaria portuguesa y analizar qué variables influyen en la suscripción de un producto financiero (depósito a plazo bancario).
 
-A partir de dos conjuntos de datos —uno relacionado con campañas de marketing directo y otro con información demográfica y de comportamiento de los clientes— se busca identificar patrones, relaciones y factores relevantes que permitan explicar la variable objetivo y (suscripción del producto: sí/no).
+A partir de dos conjuntos de datos uno relacionado con campañas de marketing directo y otro con información demográfica y de comportamiento de los clientes se busca identificar patrones, relaciones y factores relevantes que permitan explicar la variable objetivo y (suscripción del producto: sí/no).
 
 Para ello, se llevará a cabo un proceso completo de análisis de datos que incluye:
 
